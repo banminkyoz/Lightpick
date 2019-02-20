@@ -1,10 +1,9 @@
 {
   "name": "@banminkyoz/lightpick",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "description": "Javascript date range picker - lightweight, no jQuery",
   "main": "lightpick.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/wakirin/lightpick.git"
